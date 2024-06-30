@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffd700&text=%20welcome%20to%20My%20Github&height=200&fontSize=50&fontColor=ffffff)
 
-<h4>🙋‍♀️hello, My name is Lee Min Kyung  <br><br> 👩‍💻I hope to become a backend developer.</h4>
+<h4 align="center">🙋‍♀️hello, My name is Lee Min Kyung  <br><br> 👩‍💻I hope to become a backend developer.</h4>
 <br>
 
 <h3 align="center">
