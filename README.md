@@ -36,7 +36,7 @@
 
 <h3 align="center">📩Contact💕</h3>
 <div align="center">
-  <a href="https://velog.io/@minni">
+  <a href="https://velog.io/@minni_">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="mailto:dlalsrud20142905@gmail.com">
