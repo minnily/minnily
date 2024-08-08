@@ -43,9 +43,6 @@
 
 <p><strong>📩Contact</strong></p>
 <div>
-  <a href="https://velog.io/@minni_">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
   <a href="mailto:dlalsrud20142905@gmail.com">
     <img
       src="https://img.shields.io/badge/dlalsrud20142905@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
